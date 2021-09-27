@@ -1,0 +1,14 @@
+Python interpreter path: ./myvenv/bin/python
+Starting Pylance language server.
+Error 2021-09-27 13:00:19: Failed to check if file needs to be fixed EntryNotFound (FileSystemError): Unable to read file '/home/juan/Documentos/djangogirls/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/juan/Documentos/djangogirls/.vscode/settings.json')
+    at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at y.readText (/home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:314351)
+    at p.doesFileNeedToBeFixed (/home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823969)
+    at /home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823096
+    at async Promise.all (index 1)
+    at p.getFilesToBeFixed (/home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823042)
+    at p.updateTestSettings (/home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:822669) {
+  code: 'FileNotFound'
+}
+> conda --version

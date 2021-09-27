@@ -1,0 +1,12 @@
+Info 2021-09-27 13:01:21: ZMQ install verified.
+Error 2021-09-27 13:01:22: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): EntryNotFound (FileSystemError): Unable to read file '/home/juan/Documentos/djangogirls/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/juan/Documentos/djangogirls/.vscode/settings.json')
+    at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at m.readFile (/home/juan/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension.js:90:362224)
+    at g.fixSettingsFile (/home/juan/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension.js:52:320650)
+    at async Promise.all (index 1)
+    at g.updateSettings (/home/juan/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension.js:52:322370) {
+  code: 'FileNotFound'
+}
+Info 2021-09-27 13:01:23: Process Execution: > ~/Documentos/djangogirls/myvenv/bin/python -m pip list
+> ~/Documentos/djangogirls/myvenv/bin/python -m pip list

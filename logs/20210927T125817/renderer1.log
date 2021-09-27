@@ -1,0 +1,10 @@
+[2021-09-27 15:35:09.924] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+    at H (/home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:131907)
+    at Array.map (<anonymous>)
+    at Object.asDocumentSymbols (/home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:137245)
+    at /home/juan/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:117515
+    at l.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-27 17:29:27.046] [renderer1] [error] Failed to execute git
