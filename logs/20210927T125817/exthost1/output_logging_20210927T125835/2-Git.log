@@ -185,3 +185,12 @@ fatal: your current branch 'master' does not have any commits yet
 > git ls-files --stage -- /home/juan/Documentos/djangogirls/.gitignore
 > git show --textconv :blog/models.py
 > git ls-files --stage -- /home/juan/Documentos/djangogirls/blog/models.py
+> git ls-files --stage -- /home/juan/Documentos/djangogirls/blog/models.py
+> git cat-file -s 4410b2f9e18ad50669fd069d35056d1df695dc5a
+> git show --textconv :blog/models.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :mysite/settings.py
+> git ls-files --stage -- /home/juan/Documentos/djangogirls/mysite/settings.py
+> git cat-file -s acb584e5e070906d77a0818f441cdcec2c7ff4d5

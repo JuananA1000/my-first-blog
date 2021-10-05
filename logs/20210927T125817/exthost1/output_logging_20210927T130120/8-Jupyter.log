@@ -10,3 +10,10 @@ Error 2021-09-27 13:01:22: Jupyter Extension (Error in Failed to update settings
 }
 Info 2021-09-27 13:01:23: Process Execution: > ~/Documentos/djangogirls/myvenv/bin/python -m pip list
 > ~/Documentos/djangogirls/myvenv/bin/python -m pip list
+Info 2021-09-27 17:58:46: Shutting down notebooks for 7fc8b86b-a127-4aaf-b505-782b0a93c188
+Info 2021-09-27 17:58:46: Disposing HostJupyterExecution 4e1365ea-8a3f-44dd-8bfd-b2f978316c40
+Info 2021-09-27 17:58:46: Disposing super HostJupyterExecution 4e1365ea-8a3f-44dd-8bfd-b2f978316c40
+Info 2021-09-27 17:58:46: Disposing HostJupyterExecution 4e1365ea-8a3f-44dd-8bfd-b2f978316c40
+Info 2021-09-27 17:58:46: Finished disposing HostJupyterExecution  4e1365ea-8a3f-44dd-8bfd-b2f978316c40
+Info 2021-09-27 17:58:46: Cleaning up server cache 4e1365ea-8a3f-44dd-8bfd-b2f978316c40
+Info 2021-09-27 17:58:46: Finished disposing HostJupyterExecution  4e1365ea-8a3f-44dd-8bfd-b2f978316c40

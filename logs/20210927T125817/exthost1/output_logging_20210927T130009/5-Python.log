@@ -12,3 +12,5 @@ Error 2021-09-27 13:00:19: Failed to check if file needs to be fixed EntryNotFou
   code: 'FileNotFound'
 }
 > conda --version
+Error 2021-09-27 17:58:46: Error while running worker[Worker 1]. undefined
+Error 2021-09-27 17:58:46: Error while running worker[Worker 2]. undefined
